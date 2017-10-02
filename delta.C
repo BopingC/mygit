@@ -15,7 +15,7 @@ void delta::Loop()
 //      root> t.Show();       // Show values of entry 12
 //      root> t.Show(16);     // Read and show values of entry 16
 //      root> t.Loop();       // Loop on all entries
-//
+
 
 //     This is the loop skeleton where:
 //    jentry is the global entry number in the chain
